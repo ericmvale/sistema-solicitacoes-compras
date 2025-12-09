@@ -25,7 +25,7 @@ O PDF apresenta ainda as **personas**, **jornada do usuário** e o **protótipo 
 
 ## 🧩 Funcionalidades Implementadas
 
-Com base no protótipo definido no Figma e descrito no PDF, esta PoC implementa:
+Este Projeto implementa:
 
 - **Tela de Login**
 - **Dashboard inicial**
